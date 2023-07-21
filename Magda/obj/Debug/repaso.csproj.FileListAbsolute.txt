@@ -1,8 +1,0 @@
-E:\repos\clases-magda\Magda\bin\Debug\Magda.exe.config
-E:\repos\clases-magda\Magda\bin\Debug\Magda.exe
-E:\repos\clases-magda\Magda\bin\Debug\Magda.pdb
-E:\repos\clases-magda\Magda\obj\Debug\repaso.csproj.AssemblyReference.cache
-E:\repos\clases-magda\Magda\obj\Debug\repaso.csproj.SuggestedBindingRedirects.cache
-E:\repos\clases-magda\Magda\obj\Debug\repaso.csproj.CoreCompileInputs.cache
-E:\repos\clases-magda\Magda\obj\Debug\Magda.exe
-E:\repos\clases-magda\Magda\obj\Debug\Magda.pdb
