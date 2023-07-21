@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2AE26FAE-E3DC-4DE5-86E3-93CBA674F74F}</ProjectGuid>
+    <ProjectGuid>{FD7203B6-7824-4F2E-8BE0-F15821E7B0B3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EOPAM_03</RootNamespace>
-    <AssemblyName>EOPAM 03</AssemblyName>
+    <RootNamespace>EPOAM_04</RootNamespace>
+    <AssemblyName>EPOAM 04</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
