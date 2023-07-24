@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\bin\Debug\EPOAM 04.exe.config
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\bin\Debug\EPOAM 04.exe
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\bin\Debug\EPOAM 04.pdb
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\obj\Debug\EPOAM 04.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\obj\Debug\EPOAM 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\obj\Debug\EPOAM 04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\obj\Debug\EPOAM 04.exe
+C:\Users\Administrator\Desktop\cositas\tobi\fiscella-ejers\clases\EPOAM 04\obj\Debug\EPOAM 04.pdb
