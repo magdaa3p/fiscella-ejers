@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\bin\Debug\EOPAM 06.exe.config
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\bin\Debug\EOPAM 06.exe
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\bin\Debug\EOPAM 06.pdb
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\obj\Debug\EOPAM 06.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\obj\Debug\EOPAM 06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\obj\Debug\EOPAM 06.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\obj\Debug\EOPAM 06.exe
+C:\Users\Administrator\Desktop\tobi\fiscella-ejers\clases\EOPAM 06\obj\Debug\EOPAM 06.pdb
