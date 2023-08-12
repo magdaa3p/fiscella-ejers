@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOPAM 05", "EOPAM5\EOPAM 05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOPAM 06", "EOPAM 06\EOPAM 06.csproj", "{2F480379-0193-4A2A-9B77-014E858A6181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOPAM 07", "EOPAM 07\EOPAM 07.csproj", "{D5DC4213-FAF8-4962-801C-1B6653DE29B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2F480379-0193-4A2A-9B77-014E858A6181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F480379-0193-4A2A-9B77-014E858A6181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F480379-0193-4A2A-9B77-014E858A6181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DC4213-FAF8-4962-801C-1B6653DE29B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DC4213-FAF8-4962-801C-1B6653DE29B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DC4213-FAF8-4962-801C-1B6653DE29B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DC4213-FAF8-4962-801C-1B6653DE29B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

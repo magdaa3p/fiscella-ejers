@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\bin\Debug\EOPAM 07.exe.config
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\bin\Debug\EOPAM 07.exe
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\bin\Debug\EOPAM 07.pdb
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\obj\Debug\EOPAM 07.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\obj\Debug\EOPAM 07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\obj\Debug\EOPAM 07.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\obj\Debug\EOPAM 07.exe
+C:\Users\Administrator\Desktop\launchers\tobi\fiscella-ejers\clases\EOPAM 07\obj\Debug\EOPAM 07.pdb
